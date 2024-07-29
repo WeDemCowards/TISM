@@ -1,7 +1,7 @@
 # Welcome to TISM!
 *TISM IS SUPPOSED TO BE MODIFIED*
 
-This script is designed to clean large directories from a given root directory.
+This script is designed to clean large directories from a given root directory on Windows.
 Users are advised to be careful when deploying this script, as it has the potential cause damage if used improperly.
 Something to take note of is that after executing the script once, files will be moved. After a second execution, **files will be deleted**.
 

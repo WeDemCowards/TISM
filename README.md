@@ -8,11 +8,11 @@ Something to take note of is that after executing the script once, files will be
 Instructions are as follows:
 
 1. Configure Variables:
-	- $targetDirectory is the folder that the script will target.
-	- $dirAge determines how many days old a folder has to be to be deleted.
-	- $confirmation determines whether the shell asks for user confirmation to delete files. Safest left on $true.
-	- $recycleFolderName is the name of your recycle folder, you can change it if .recyclebin isn't sexy enough for you
-	- $recycleDirectory is the location you want to store the recycle bin.
+	- `$targetDirectory` is the folder that the script will target.
+	- `$dirAge` determines how many days old a folder has to be to be deleted.
+	- `$confirmation` determines whether the shell asks for user confirmation to delete files. Safest left on $true.
+	- `$recycleFolderName` is the name of your recycle folder, you can change it if .recyclebin isn't sexy enough for you
+	- `$recycleDirectory` is the location you want to store the recycle bin.
 	
 	
 2. Store script somewhere that makes sense for you.

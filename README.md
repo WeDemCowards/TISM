@@ -18,3 +18,6 @@ Instructions are as follows:
 2. Store script somewhere that makes sense for you.
 
 3. (Optional) If you want this script to be automated, use Task scheduler.
+
+## To do:
+I might want to make this script accessible, with prompts for the user instead of an editable section of the script. I noticed a user was not sure if it was working as intended, due to a lack of feedback.

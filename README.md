@@ -20,4 +20,6 @@ Instructions are as follows:
 3. (Optional) If you want this script to be automated, use Task scheduler.
 
 ## To do:
-I might want to make this script accessible, with prompts for the user instead of an editable section of the script. I noticed a user was not sure if it was working as intended, due to a lack of feedback.
+- [ ] I might want to make this script accessible, with prompts for the user instead of an editable section of the script.
+- [ ] Feedback while the script is deleting would make the script more accessible also!
+- [ ] Should add ability to include multiple directories for the script to act upon also.
